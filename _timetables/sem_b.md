@@ -17,7 +17,7 @@ timetable:
     time: 15
     course: data-structures
     author: "Α. Σωτηροπούλου"
-    location: "Αμφιθέατρο 1"
+    location:  "Αμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 17
     course: computer-programming
