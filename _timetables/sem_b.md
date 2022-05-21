@@ -16,7 +16,7 @@ timetable:
   - day: "Δευτέρα"
     time: 15
     course: data-structures
-    author: "Α. Σωτηροπούλου"
+    author:"Α. Σωτηροπούλου"
     location:  "Αμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 17
