@@ -12,9 +12,7 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: juliangruber/sleep-action@v1
-        with:
-          time: 5m
+      
       - uses: actions/checkout@v2
       - name: Convert 
         uses: docker://pandoc/latex:2.13
